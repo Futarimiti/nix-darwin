@@ -1,0 +1,39 @@
+-- require('nvim-treesitter.configs').setup {
+--   ensure_installed = {},
+--   highlight = { enable = true },
+--   incremental_selection = {
+--     enable = true,
+--     keymaps = {
+--       init_selection = 'gnn',
+--       -- below are vmap
+--       node_incremental = 'grn',
+--       scope_incremental = 'grc',
+--       node_decremental = 'grm',
+--     },
+--   },
+--   -- sometimes just broke
+--   indent = { enable = false },
+--   -- FIXME NOT WORKING
+--   -- textobjects = {
+--   --   select = {
+--   --     enable = true,
+--   --     lookahead = true,
+--   --     keymaps = {
+--   --       ['if'] = '@function.inner',
+--   --       ['af'] = '@function.outer',
+--   --       ['ic'] = '@class.inner',
+--   --       ['ac'] = '@class.outer',
+--   --       ['il'] = '@loop.inner',
+--   --       ['al'] = '@loop.outer',
+--   --       ['ia'] = '@parameter.inner',
+--   --       ['aa'] = '@parameter.outer',
+--   --     },
+--   --     selection_modes = {
+--   --       ['@parameter.outer'] = 'v',
+--   --       ['@function.outer'] = 'V',
+--   --       ['@class.outer'] = '<C-V>',
+--   --     },
+--   --     include_surrounding_whitespace = true,
+--   --   },
+--   -- },
+-- }

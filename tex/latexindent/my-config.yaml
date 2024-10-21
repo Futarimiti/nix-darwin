@@ -1,0 +1,5 @@
+noAdditionalIndent:
+  document:
+    body: 1
+noAdditionalIndentGlobal:
+  keyEqualsValuesBracesBrackets: 1

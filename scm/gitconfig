@@ -1,0 +1,7 @@
+; vim: ft=gitconfig
+[user]
+  name = Carman Fu
+[push]
+  default = current
+[init]
+  defaultBranch = main

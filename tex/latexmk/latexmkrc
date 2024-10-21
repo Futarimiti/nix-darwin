@@ -1,0 +1,8 @@
+$pdf_previewer = 'open';
+$dvi_previewer = 'xdvi -watchfile 1.5';
+$pdf_mode = 5; # XeLaTeX
+$postscript_mode = 0;
+$dvi_mode = 0;
+$emulate_aux = 1;
+$out_dir = 'output';
+$aux_dir = 'output';

@@ -1,0 +1,9 @@
+templates:
+  params:
+    author-name: Carman Fu
+    copyright: Carman Fu 2024
+    github-username: Futarimiti
+nix:
+  enable: true
+# ghc-options:
+#   "$targets": -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints -Wmonomorphism-restriction -O2
